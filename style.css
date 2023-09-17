@@ -4180,22 +4180,6 @@ a {
   color: #61d180;
 }
 
-.made-in-webflow {
-  z-index: 100;
-  grid-column-gap: .5rem;
-  grid-row-gap: .5rem;
-  background-color: #fff;
-  border-radius: 3px;
-  align-items: center;
-  padding: 6px 8px 6px 6px;
-  display: flex;
-  position: fixed;
-  top: auto;
-  bottom: 12px;
-  left: auto;
-  right: 12px;
-}
-
 .webflow-logo {
   width: 1rem;
   height: auto;
